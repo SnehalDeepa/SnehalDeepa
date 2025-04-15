@@ -1,4 +1,4 @@
-![logo](https://github.com/SnehalDeepa/SnehalDeepa/blob/main/Virtual%20Variety%20Game%20Fun%20Presentation%20in%20Black%20Blue%20Orange%20Brutalist%20Cyberpunk%20Style%20(2).png)
+![logo](https://github.com/SnehalDeepa/SnehalDeepa/blob/main/Brown%20Beige%20Aesthetic%20Skincare%20Specialist%20LinkedIn%20Background%20Photo%20(2).png)
 <h1 align="center">Hi 👋, I'm Snehal Pawar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
