@@ -1,5 +1,4 @@
-## Hi there 👋
-[![MasterHead]()
+[![MasterHead](https://github.com/SnehalDeepa/SnehalDeepa/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(3).png)
 <h1 align="center">Hi 👋, I'm Snehal Pawar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align ="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/17421a104128975.5f5bdc0d6d121.gif"
